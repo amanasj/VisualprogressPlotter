@@ -6,7 +6,7 @@
 
 <br>
 
-v0.92 - added drag and drop of MAIA PDF files for automatic sensitivity input and automatic presentation creation
+v0.93 - added drag and drop of MAIA PDF files for automatic sensitivity input and automatic presentation creation
 
 <br>
 
