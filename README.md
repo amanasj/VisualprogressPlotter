@@ -17,6 +17,7 @@ An easy locally run patient visual function plotting program. Includes BCVA, LLV
 
 download the windows executable file for running the GUI locally on your computer. See releases  ---->
 
+Or download from https://amanjosan.netlify.app/software/visualprogressplotter/
 
 <br><br>
 
