@@ -8,12 +8,10 @@
 
 v0.93 - added drag and drop of MAIA PDF files for automatic sensitivity input and automatic presentation creation
 
-<br>
-
 
 <br><br>
 
-An easy patient visual function plotting program. Includes BCVA, LLVA, Microperimetry mean sensitivity and microperimetry volume measure. Can add more. Please ask.
+An easy locally run patient visual function plotting program. Includes BCVA, LLVA, Microperimetry mean sensitivity and microperimetry volume measure. Can add more. Please ask.
 
 <br><br>
 
